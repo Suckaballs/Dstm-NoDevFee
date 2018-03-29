@@ -4,7 +4,7 @@ Dstm (<=0.5.7) fee redirect for Linux-based systems.
 
 What is this?
 
-This .so allows you to redirect dstm's miner dev fee to your walle.
+This .so allows you to redirect dstm's miner dev fee to your wallet.
 
 ----------------------------------------------------------------------
 
